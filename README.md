@@ -14,5 +14,11 @@
 
 **Visiting Research  Scholar,National Center for Theoretical Sciences,NTHU**
 
-**Postdoctoral Researcher, UNAM/UMSNH**.
-	
+**Postdoctoral Researcher,**.
+
+**Assistant Editor Freelance, Editorial M\'exico, May 2018 - June 2019**
+-Proofreading  and editing science books, guides and complementary material for high school programs.
+
+## Projects
+### An analytical approximation to measure the extinction cross-section using: Localized Waves
+[Publication](https://iopscience.iop.org/article/10.1088/2399-6528/ac3ec4)
