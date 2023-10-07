@@ -1,8 +1,8 @@
 # Data Scientist
 
 #### Technical Skills: Python, Mathematica,Matlab, Maple, Latex
-## Scientific  free software tools, data imaging processing tools, OpenCV,
-## Machine /Deep learning packages
+### Scientific  free software tools, data imaging processing tools, OpenCV,
+### Machine /Deep learning packages
 
 ## Education
 - Ph.D., Physics major in Optics | National Institute of Astrophysics, Optics and Electronics (INAOE) (2016)
