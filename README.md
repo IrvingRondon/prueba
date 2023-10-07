@@ -22,3 +22,5 @@
 ## Projects
 ### An analytical approximation to measure the extinction cross-section using: Localized Waves
 [Publication](https://iopscience.iop.org/article/10.1088/2399-6528/ac3ec4)
+
+We present a general expression for the optical theorem in terms of Localized Waves. This representation is well-known and commonly used to generate Frozen waves, Xwaves, and other propagation invariant beams. We analyze several examples using different input beam sources on a circular detector to measure the extinction cross-section.
