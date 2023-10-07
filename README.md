@@ -36,6 +36,9 @@ We present a general expression for the optical theorem in terms of Localized Wa
 ### Acoustic spin and  orbital angular momentum  using  evanescent Bessel beams
 [Publication](https://iopscience.iop.org/article/10.1088/2399-6528/ac1e24/meta)
 
+### Orbital angular momentum  due interference modes
+[Publication](https://opticaapplicata.pwr.edu.pl/files/pdf/2021/no1/optappl_5101p59.pdf) 
+
 
 
 
