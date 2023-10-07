@@ -1,6 +1,8 @@
 # Data Scientist
 
 #### Technical Skills: Python, Mathematica,Matlab, Maple, Latex
+## Scientific  free software tools, data imaging processing tools, OpenCV,
+## Machine /Deep learning packages
 
 ## Education
 - Ph.D., Physics major in Optics | National Institute of Astrophysics, Optics and Electronics (INAOE) (2016)
@@ -19,6 +21,10 @@
 **Assistant Editor Freelance, Editorial M\'exico, May 2018 - June 2019**
 
 -Proofreading  and editing science books, guides and complementary material for high school programs.
+
+**Laboratory skills**
+-Standard University Laboratory equipment used   in physics and optics.
+-Laboratory of colorimetry  (LABEC)  accredited by The  National Laboratory of  Metrology of Mexico (CENAM) 
 
 ## Projects
 ### An analytical approximation to measure the extinction cross-section using: Localized Waves
