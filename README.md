@@ -4,8 +4,8 @@
 #### Machine & Deep learning package, data imaging processing tools, OpenCV,
 
 ## Education
-- Ph.D., Physics major in Optics | National Institute of Astrophysics, Optics and Electronics (INAOE) (2016)
-- M.Sc in Physics, Venezuelan Institute for Scientific Research  (IVIC) (2011)
+- Ph.D., Physics major in Optics | National Institute of Astrophysics, Optics and Electronics (INAOE) (_2016_)	
+- M.Sc in Physics, Venezuelan Institute for Scientific Research  (IVIC) (_2011_)
 
 ## Work Experience
 
