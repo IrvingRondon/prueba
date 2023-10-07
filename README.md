@@ -9,7 +9,10 @@
 ## Work Experience
 
 **Postdoctoral Research Fellow,  Korea Institute for Advanced Study**
+
 **Visiting Research Fellow, Institute for Basic Science, Physics of Complex System** 
+
 **Visiting Research  Scholar,National Center for Theoretical Sciences,NTHU**
+
 **Postdoctoral Researcher, UNAM/UMSNH**.
 	
