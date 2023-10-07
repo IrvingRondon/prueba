@@ -17,6 +17,7 @@
 **Postdoctoral Researcher,**.
 
 **Assistant Editor Freelance, Editorial M\'exico, May 2018 - June 2019**
+
 -Proofreading  and editing science books, guides and complementary material for high school programs.
 
 ## Projects
