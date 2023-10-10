@@ -1,4 +1,4 @@
-# Data Scientist
+# Research Scientist
 
 #### Technical Skills: Python, Mathematica,Matlab, Maple, Latex
 #### Machine & Deep learning package, data imaging processing tools, OpenCV,
@@ -26,7 +26,7 @@
 
 -Laboratory of colorimetry  (LABEC)  accredited by The  National Laboratory of  Metrology of Mexico (CENAM) 
 
-## Projects and publications
+## Projects publications in wave physics, optics
 
 ![EEG Band Discovery](/assets/eeg_band_discovery.jpeg)
 
@@ -41,6 +41,13 @@ We present a general expression for the optical theorem in terms of Localized Wa
 
 ### Orbital angular momentum  due interference modes
 [Publication](https://opticaapplicata.pwr.edu.pl/files/pdf/2021/no1/optappl_5101p59.pdf) 
+
+## Projects and publications in data science 
+![EEG Band Discovery](/assets/headshot_circle.png)
+
+## Projects and publications in Mathematical Biologicals systems
+![EEG Band Discovery](/assets/bike_study.jpeg)
+
 
 
 
