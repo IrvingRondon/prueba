@@ -27,6 +27,9 @@
 -Laboratory of colorimetry  (LABEC)  accredited by The  National Laboratory of  Metrology of Mexico (CENAM) 
 
 ## Projects and publications
+
+![EEG Band Discovery](/assets/eeg_band_discovery.jpeg)
+
 ### An analytical approximation to measure the extinction cross-section using: Localized Waves
 [Publication](https://iopscience.iop.org/article/10.1088/2399-6528/ac3ec4)
 
